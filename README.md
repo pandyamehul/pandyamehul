@@ -1,4 +1,4 @@
-## Hello, From Mehul Pandya 👋
+## Hello, From Mehul Pandya 👋  <img src="https://komarev.com/ghpvc/?username=pandyamehul&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
 **Cloud Solution Architect**
 
@@ -6,20 +6,21 @@ Certified Azure, IoT, Data & AI Solution Architect and Digital Solution enabler 
 
 ## Git Status
 
-![GitHub stats](https://github-stats-alpha.vercel.app/api?username=pandyamehul&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&cc=22272e&tc=37BCF6&ic=fff&bc=0000)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pandyamehul&theme=dark)
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pandyamehul&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pandyamehul&theme=dark)
+![GitHub stats](https://github-stats-alpha.vercel.app/api?username=pandyamehul&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&cc=22272e&tc=37BCF6&ic=fff&bc=0000)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pandyamehul&theme=dark&mode=weekly&card_height=155)](https://github.com/pandyamehul)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pandyamehul&layout=compact&theme=dark)](https://github.com/pandyamehul)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pandyamehul&theme=dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pandyamehul&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pandyamehul&theme=dark)
+
+![](https://metrics.lecoq.io/insights/pandyamehul)
+
 ## Technology, Tools, Languages and Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=azure,react,vue,flutter,git,kubernetes,docker&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,aws,react,git,kubernetes,docker,angular,cs,dotnet,github,githubactions,ai,linux,mysql,postgres,postman,powershell,py,redis,sqlite,ubuntu,vscode,windows&perline=12)](https://github.com/pandyamehul)
 
 ## Git Repo Status
 
