@@ -22,6 +22,21 @@ Certified Azure, IoT, Data & AI Solution Architect and Digital Solution enabler 
 
 [![My Skills](https://skillicons.dev/icons?i=azure,aws,react,git,kubernetes,docker,angular,cs,dotnet,github,githubactions,ai,linux,mysql,postgres,postman,powershell,py,redis,sqlite,ubuntu,vscode,windows&perline=12)](https://github.com/pandyamehul)
 
+## Projects
+
+### C#, .Net - Microservices
+
+| Project Title | Project Description | Pattern, Tools and Technology |
+| -- | -- | -- |
+| Learn Microservice | eShop Microservice | C# |
+
+### Python
+
+
+### AI, LLM, Langchain, Huggingface
+
+
+
 ## Git Repo Status
 
 <p align="left">
