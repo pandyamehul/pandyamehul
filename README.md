@@ -1,14 +1,27 @@
 ## Hello, From Mehul Pandya 👋
 
-Cloud Solution Architect
+**Cloud Solution Architect**
+
+Certified Azure, IoT, Data & AI Solution Architect and Digital Solution enabler with 20+ years of industry experience with extensive technical knowledge in Azure PaaS, AWS, .Net, docker, Kubernetes, IoT, BI, Data, AI and Analytics with hands on experience in designing and implementing very large scale program, highly complex, scalable multi cloud-based solutions and architecture, system integrations, application and application/data migration strategies for cloud adaption, automation and business process digitization.
+
+## Git Status
 
 ![GitHub stats](https://github-stats-alpha.vercel.app/api?username=pandyamehul&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&cc=22272e&tc=37BCF6&ic=fff&bc=0000)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pandyamehul&theme=dark)
+
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pandyamehul&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pandyamehul&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandyamehul&layout=compact)](https://github.com/pandyamehul)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pandyamehul&theme=dark&mode=weekly&card_height=155)](https://github.com/pandyamehul)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pandyamehul&layout=compact&theme=dark)](https://github.com/pandyamehul)
+
+## Technology, Tools, Languages and Frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=azure,react,vue,flutter,git,kubernetes,docker&perline=12)](https://skillicons.dev)
+
+## Git Repo Status
 
 <p align="left">
   <!-- a href="https://github.com/pandyamehul/pandyamehul/actions">
