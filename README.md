@@ -1,4 +1,4 @@
-## Hello, From Mehul Pandya 👋  <img src="https://komarev.com/ghpvc/?username=pandyamehul&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+## Hello, From Mehul Pandya 👋  <img src="https://komarev.com/ghpvc/?username=pandyamehul&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen&style=plastic">
 
 **Cloud Solution Architect**
 
