@@ -7,6 +7,7 @@ Certified Azure, IoT, Data & AI Solution Architect and Digital Solution enabler 
 ## Git Status
 
 ![GitHub stats](https://github-stats-alpha.vercel.app/api?username=pandyamehul&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&cc=22272e&tc=37BCF6&ic=fff&bc=0000)
+![](https://github-readme-stats.vercel.app/api?username=pandyamehul&show_icons=true&theme=dark)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pandyamehul&theme=dark&mode=weekly&card_height=155)](https://github.com/pandyamehul)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pandyamehul&layout=compact&theme=dark)](https://github.com/pandyamehul)
