@@ -4,6 +4,7 @@
 
 Certified Azure, IoT, Data & AI Solution Architect and Digital Solution enabler with 20+ years of industry experience with extensive technical knowledge in Azure PaaS, AWS, .Net, docker, Kubernetes, IoT, BI, Data, AI and Analytics with hands on experience in designing and implementing very large scale program, highly complex, scalable multi cloud-based solutions and architecture, system integrations, application and application/data migration strategies for cloud adaption, automation and business process digitization.
 
+
 ## Git Status
 
 ![GitHub stats](https://github-stats-alpha.vercel.app/api?username=pandyamehul&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&cc=22272e&tc=37BCF6&ic=fff&bc=0000)
@@ -12,7 +13,10 @@ Certified Azure, IoT, Data & AI Solution Architect and Digital Solution enabler 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pandyamehul&theme=dark&hide_border=true&border_radius=3&mode=weekly&card_width=450&card_height=153&type=png)](https://github.com/pandyamehul)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pandyamehul&layout=compact&theme=dark)](https://github.com/pandyamehul)
 
+<!-- Dark mode image -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pandyamehul&theme=dark)
+[![My Contributions](https://github.pumbas.net/api/contributions/pandyamehul?bgColour=161B22#gh-dark-mode-only&days=180)](https://github.com/pandyamehul)
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pandyamehul&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pandyamehul&theme=dark)
