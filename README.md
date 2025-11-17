@@ -33,7 +33,7 @@ Certified Azure, IoT, Data & AI Solution Architect and Digital Solution enabler 
 
 | Project Title | Project Description | Pattern, Tools and Technology |
 | -- | -- | -- |
-| Learn Microservice | eShop Microservice | C# |
+| [Learn Microservice](https://github.com/pandyamehul/eShop.MicroService.net8) | eShop  developed based Microservice event driven architecture | - **Tools**: C#, Microsoft SQL Server, Docker (Rancher Desktop), ASP.NET Web API, RabbitMQ, MassTransit, gRPC, Yarp Gateway, Redis, MongoDB, SQLite, PostgreSQL,  .net 8. <br> - **Pattern**: Minimal API, Domain-Driven Design (DDD), CQRS, Clean Architecture, MediatR, Entity Framework (EF) Core, Event Driven Architecture |
 
 ### Python
 
