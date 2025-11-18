@@ -9,40 +9,40 @@ Certified Azure, IoT, Data & AI Solution Architect and Digital Solution enabler 
 
 ## Projects (Sample learning projects/solutions and Hands on experiance)
 
-### C#, .Net - Microservices
+### C#, .Net, SQL, no-SQL, Docker, Azure, AWS
 
 | Project Title | Project Description | Pattern, Tools and Technology |
 | -- | -- | -- |
 | [IoT Device Simulator](https://github.com/pandyamehul/IoT.Device.Simulator) | This project simulates an IoT device that connects to both Azure IoT Hub via Device Provisioning Service (DPS) and AWS IoT Core using MQTT over TLS. It demonstrates secure communication, telemetry data transmission, and command handling.  | Python 3, Azure Stack [IoT Hub, DPS, Service Bus], AWS Stack [IoT Core], MQTT, x509 certificate based Authentication, TLS, Json |
-| [Online eShop - Learn Microservice](https://github.com/pandyamehul/eShop.MicroService.net8) | eShop  developed based Microservice event driven architecture | - **Tools**: C#, Microsoft SQL Server, Docker (Rancher Desktop), ASP.NET Web API, RabbitMQ, MassTransit, gRPC, Yarp Gateway, Redis, MongoDB, SQLite, PostgreSQL,  .net 8. <br> - **Pattern**: Minimal API, Domain-Driven Design (DDD), CQRS, Clean Architecture, MediatR, Entity Framework (EF) Core, Event Driven Architecture |
+| [Online eShop - Learn Microservice](https://github.com/pandyamehul/eShop.MicroService.net8) | eShop  developed based Microservice event driven architecture | - **Tools**:  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat" /> <img alt="SQL Server" src="https://img.shields.io/badge/SQL Server-CC2927?logo=microsoft+sql+server&logoColor=white&style=flat" />, Docker (Rancher Desktop), ASP.NET Web API, RabbitMQ, MassTransit, gRPC, Yarp Gateway, Redis, MongoDB, SQLite, PostgreSQL,  .net 8. <br> - **Pattern**: Minimal API, Domain-Driven Design (DDD), CQRS, Clean Architecture, MediatR, Entity Framework (EF) Core, Event Driven Architecture |
 | [Publish and Consume messages from Apache Kafka in Asynchronous manner](https://github.com/pandyamehul/.Net8-Kafka-async-pub-sub) | Working Demo: Asynchronous Microservices in .NET 8 with Apache Kafka (Consumer & Publisher) for consuming events in real-time | .Net 8, C#, Apache Kafka, ASP.net web API, Rest API, Docker (via Rancher), VS Code, Rest Client |
 | [eStore Shop](https://github.com/pandyamehul/netcore31.mvcRestAPI.cmdStoreFull) | Sample RestAPI application in .net core 3.1 and PostgreSQL DB in docker with CI/CD for deployment  | - **Tools**: ![C#](https://img.shields.io/badge/C%23-black?style=flat-square&logo=csharp), Docker (Rancher Desktop), ASP.NET Web API, PostgreSQL, .net 3.1 |
-| [Simple ASP.net web API](https://github.com/pandyamehul/SimpleAPI_CICD) | Sample Rest API application developed in .net core 2.2, integrated with Azure DevOps - CI/CD pipeline for deployment  on | .net 3.1, c#, ASP.Net Web API, Rest |
+| [Simple ASP.net web API](https://github.com/pandyamehul/SimpleAPI_CICD) | Sample Rest API application developed in .net core 2.2, integrated with Azure DevOps - CI/CD pipeline for deployment  on | .net 3.1, c#, ASP.Net Web API, Rest, ![cosmos](https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Azure-Cosmos-DB.svgh&height=10&weight=5) |
 
 ### Python
 
 | Project Title | Project Description | Pattern, Tools and Technology |
 | -- | -- | -- |
-| [Python PDF Utility](https://github.com/pandyamehul/Python.PDF.Utilities) | Python utilities <br> - Read pdf (inc. password locked) files and extract information like data extraction from table for automation <br> - Merge pdf files  | Python 3, PDF  |
+| [Python PDF Utility](https://github.com/pandyamehul/Python.PDF.Utilities) | Python utilities <br> - Read pdf (inc. password locked) files and extract information like data extraction from table for automation <br> - Merge pdf files  | ![python](https://img.shields.io/badge/python%203-black?style=flat-square&logo=python) ![PDF](https://img.shields.io/badge/pdf-black?style=flat-square&logo=pdf)  |
 
 ### AI, LLM, Langchain, Huggingface
 
 | Project Title | Project Description | Pattern, Tools and Technology |
 | -- | -- | -- |
-| [Azure AI Language Service Demo](https://github.com/pandyamehul/Python.PDF.Utilities) | Azure AI Language Service to extract - language,  sentiment, key phrases, entities, linked entities  | Python 3, Azure AI Language Service API |
-| [Learn LLM](https://github.com/pandyamehul/Learn.LLM) | Learn LLM - Exploration of various LLMs and their APIs such as OpenAI, Google Gemini, DeepSeek, and Anthropic's Claude, Practical exercises and tasks to understand LLM capabilities and interactions  | Python 3,  |
-| [Gen AI: Chatbot](https://github.com/pandyamehul/GenAI.Simple.Chatbot) | The GenAI system has been completely transformed into an enterprise-grade document intelligence platform with multi-format processing, multi-language support, multi-AI provider integration, and comprehensive REST API.  | Python 3, |
-| [Gen AI: LangChain, and Huggingface](https://github.com/pandyamehul/Learn.GenAI-Langchain_Huggingface) | Learning and working sample example of Gen AI, Langchain, Huggingface - working examples and resources covering the fundamentals of Generative AI, practical applications using LangChain, and leveraging Huggingface for building AI models  | Python 3, |
+| [Azure AI Language Service Demo](https://github.com/pandyamehul/Python.PDF.Utilities) | Azure AI Language Service to extract - language,  sentiment, key phrases, entities, linked entities  | ![python](https://img.shields.io/badge/python%203-black?style=flat-square&logo=python), Azure AI Language Service API |
+| [Learn LLM](https://github.com/pandyamehul/Learn.LLM) | Learn LLM - Exploration of various LLMs and their APIs such as OpenAI, Google Gemini, DeepSeek, and Anthropic's Claude, Practical exercises and tasks to understand LLM capabilities and interactions  | ![python](https://img.shields.io/badge/python%203-black?style=flat-square&logo=python) ![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=flat-square&logo=huggingface) ![LLM](https://img.shields.io/badge/LLM-black?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) ![Modal](https://img.shields.io/badge/Modal-black?style=flat-square) ![Gradio](https://img.shields.io/badge/Gradio-black?style=flat-square&logo=gradio) ![Ollama](https://img.shields.io/badge/ollama-black?style=flat-square&logo=ollama) ![openai](https://img.shields.io/badge/openai-black?style=flat-square&logo=openai) ![colab](https://img.shields.io/badge/google%20colab-black?style=flat-square&logo=googlecolab) ![sklearn](https://img.shields.io/badge/scikitlearn-black?style=flat-square&logo=scikitlearn) ![weightsandbiases](https://img.shields.io/badge/weights%20%26%20biases-black?style=flat-square&logo=weightsandbiases) ![jupyter](https://img.shields.io/badge/jupyter-black?style=flat-square&logo=jupyter) |
+| [Gen AI: Chatbot](https://github.com/pandyamehul/GenAI.Simple.Chatbot) | The GenAI system has been completely transformed into an enterprise-grade document intelligence platform with multi-format processing, multi-language support, multi-AI provider integration, and comprehensive REST API.  | ![python](https://img.shields.io/badge/python%203-black?style=flat-square&logo=python) ![openai](https://img.shields.io/badge/openai-black?style=flat-square&logo=openai) |
+| [Gen AI: LangChain, and Huggingface](https://github.com/pandyamehul/Learn.GenAI-Langchain_Huggingface) | Learning and working sample example of Gen AI, Langchain, Huggingface - working examples and resources covering the fundamentals of Generative AI, practical applications using LangChain, and leveraging Huggingface for building AI models  | ![python](https://img.shields.io/badge/python%203-black?style=flat-square&logo=python) ![Streamlit](https://img.shields.io/badge/Streamlit-black?style=flat-square&logo=streamlit) ![openai](https://img.shields.io/badge/openai-black?style=flat-square&logo=openai) |
 
 ### DevOps
 
 | Project Title | Project Description | Pattern, Tools and Technology |
 | -- | -- | -- |
-| [Azure VM - IaaS](https://github.com/pandyamehul/IaaS.AzureVm) | Provision and de-allocationAzure VM using Git Actions, ARM / Terraform | IaaS, ARM, Terraform, Git actions, Poweershell  |
+| [Azure VM - IaaS](https://github.com/pandyamehul/IaaS.AzureVm) | Provision and de-allocationAzure VM using Git Actions, ARM / Terraform | IaaS, ![ARM](https://img.shields.io/badge/arm%20script-black?style=flat-square&logo=ARM), ![Terraform](https://img.shields.io/badge/terraform-black?style=flat-square&logo=terraform), ![Git actions](https://img.shields.io/badge/git%20action-black?style=flat-square&logo=githubactions), ![Poweershell](https://img.shields.io/badge/poweershell-black?style=flat-square&logo=poweershell)  |
 
 ## Technology, Tools, Languages and Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=azure,aws,react,git,kubernetes,docker,angular,cs,dotnet,github,githubactions,ai,linux,mysql,postgres,postman,powershell,py,redis,sqlite,ubuntu,vscode,windows&perline=12)](https://github.com/pandyamehul)
+[![My Skills](https://skillicons.dev/icons?i=azure,aws,react,git,kubernetes,docker,angular,cs,dotnet,github,githubactions,ai,linux,mysql,postgres,postman,powershell,py,redis,sqlite,ubuntu,vscode,windows,cosmos,functions&perline=12)](https://github.com/pandyamehul)
 
 ## Git Status & Statistics
 
