@@ -9,7 +9,7 @@ Certified Azure, IoT, Data & AI Solution Architect and Digital Solution enabler 
 
 ## Projects (Sample learning projects/solutions and Hands on experiance)
 
-### AI, LLM, Langchain, Huggingface
+### AI, LLM, Langchain, Huggingface, RAG
 
 | Project Title | Project Description | Pattern, Tools and Technology |
 | -- | -- | -- |
