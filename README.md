@@ -2,9 +2,9 @@
 
 **Cloud Solution Architect**
 
-Certified Azure, IoT, Data & AI Solution Architect and Digital Solution enabler with 20+ years of industry experience with extensive technical knowledge in Azure PaaS, AWS, .Net, docker, Kubernetes, IoT, BI, Data, AI and Analytics with hands on experience in designing and implementing very large scale program, highly complex, scalable multi cloud-based solutions and architecture, system integrations, application and application/data migration strategies for cloud adaption, automation and business process digitization.
+Certified Azure, IoT, Data & AI Solution Architect and Digital Solution enabler with 20+ years of industry experience with extensive technical knowledge in Azure PaaS, AWS, .Net, docker, Kubernetes, IoT, LLM, GenAI, RAG, and Cloud Architecture.
 
-![GitHub stats](https://github-stats-alpha.vercel.app/api?username=pandyamehul&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&cc=22272e&tc=37BCF6&ic=fff&bc=0000)
+![GitHub stats](https://github-stats-alpha.vercel.app/api?username=pandyamehul&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=pandyamehul&theme=dark&hide_border=true&border_radius=4.0&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://github.com/pandyamehul)
 
 ## Projects (Sample learning projects/solutions and Hands on experiance)
@@ -13,38 +13,49 @@ Certified Azure, IoT, Data & AI Solution Architect and Digital Solution enabler 
 
 | Project Title | Project Description | Pattern, Tools and Technology |
 | -- | -- | -- |
-| [RAG.Pipelines.Demo](https://github.com/pandyamehul/Learn.RAG.Pipelines) | RAG pipelines using LangChain, LangGraph, and LangSmith → proves applied GenAI/RAG skill | ![python](https://img.shields.io/badge/python%203-black?style=flat-square&logo=python) |
-| [Learn Azure AI - Demo & Lab handson](https://github.com/pandyamehul/Azure.AI.Demo) | Azure AI Language Service to extract - language,  sentiment, key phrases, entities, linked entities  | ![python](https://img.shields.io/badge/python%203-black?style=flat-square&logo=python), Azure AI Language Service API |
-| [Learn LLM](https://github.com/pandyamehul/Learn.LLM) | Learn LLM - Exploration of various LLMs and their APIs such as OpenAI, Google Gemini, DeepSeek, and Anthropic's Claude, Practical exercises and tasks to understand LLM capabilities and interactions  | ![python](https://img.shields.io/badge/python%203-black?style=flat-square&logo=python) ![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=flat-square&logo=huggingface) ![LLM](https://img.shields.io/badge/LLM-black?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) ![Modal](https://img.shields.io/badge/Modal-black?style=flat-square) ![Gradio](https://img.shields.io/badge/Gradio-black?style=flat-square&logo=gradio) ![Ollama](https://img.shields.io/badge/ollama-black?style=flat-square&logo=ollama) ![openai](https://img.shields.io/badge/openai-black?style=flat-square&logo=openai) ![colab](https://img.shields.io/badge/google%20colab-black?style=flat-square&logo=googlecolab) ![sklearn](https://img.shields.io/badge/scikitlearn-black?style=flat-square&logo=scikitlearn) ![weightsandbiases](https://img.shields.io/badge/weights%20%26%20biases-black?style=flat-square&logo=weightsandbiases) ![jupyter](https://img.shields.io/badge/jupyter-black?style=flat-square&logo=jupyter) |
-| [Gen AI: Chatbot](https://github.com/pandyamehul/GenAI.Simple.Chatbot) | The GenAI system has been completely transformed into an enterprise-grade document intelligence platform with multi-format processing, multi-language support, multi-AI provider integration, and comprehensive REST API.  | ![python](https://img.shields.io/badge/python%203-black?style=flat-square&logo=python) ![openai](https://img.shields.io/badge/openai-black?style=flat-square&logo=openai) |
-| [Gen AI: LangChain, and Huggingface](https://github.com/pandyamehul/Learn.GenAI-Langchain_Huggingface) | Learning and working sample example of Gen AI, Langchain, Huggingface - working examples and resources covering the fundamentals of Generative AI, practical applications using LangChain, and leveraging Huggingface for building AI models  | ![python](https://img.shields.io/badge/python%203-black?style=flat-square&logo=python) ![Streamlit](https://img.shields.io/badge/Streamlit-black?style=flat-square&logo=streamlit) ![openai](https://img.shields.io/badge/openai-black?style=flat-square&logo=openai) |
+| [RAG.Pipelines.Demo](https://github.com/pandyamehul/RAG.Pipelines.Demo) | RAG pipelines: Traditional, Advanced, Multimodal & Agentic AI with LangChain, LangGraph and Langsmith | ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| [Agentic.AI.Demo](https://github.com/pandyamehul/Agentic.AI.Demo) | Agentic AI exploration using OpenAI, Gemini, Claude with Tools such as Tavily | ![jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) |
+| [LLM.Engineering](https://github.com/pandyamehul/LLM.Engineering) | Learn AI - LLM, exercises and tasks related to LLMs, including API usage and model interactions | ![jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) |
+| [MS.Azure.AI.HandsOn](https://github.com/pandyamehul/MS.Azure.AI.HandsOn) | Learning Azure AI Language Service with hands on examples for sentiment analysis, entity extraction, key phrases | ![jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) |
+| [GenAI.Simple.Chatbot](https://github.com/pandyamehul/GenAI.Simple.Chatbot) | Enterprise-grade document intelligence platform with multi-format processing, multi-language support, multi-AI provider integration, and comprehensive REST API | ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| [GenAI-Langchain_Huggingface](https://github.com/pandyamehul/GenAI-Langchain_Huggingface) | Learning and working sample example of Gen AI, Langchain, Huggingface - working examples | ![jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) |
+| [ComputorVision.OpenCv-Tensofflow](https://github.com/pandyamehul/ComputorVision.OpenCv-Tensofflow) | Computer Vision exploration using OpenCV and TensorFlow | ![jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) |
 
 ### C#, .Net, SQL, no-SQL, Docker, Azure, AWS
 
 | Project Title | Project Description | Pattern, Tools and Technology |
 | -- | -- | -- |
-| [ECommerce Application - microservice on azure kubernetes](https://github.com/pandyamehul/.Net8-eCommerce-az-aks-devops) | eCommerce app with ASP .NET Core .net 9, fully functional featuring users, products & orders microservices | ![C#](https://img.shields.io/badge/C%23-black?style=flat-square&logo=csharp), ![Docker - Rancher](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker), ![.net 9](https://img.shields.io/badge/.net%209-green?logo=.net), |
-| [IoT Device Simulator](https://github.com/pandyamehul/IoT.Device.Simulator) | This project simulates an IoT device that connects to both Azure IoT Hub via Device Provisioning Service (DPS) and AWS IoT Core using MQTT over TLS. It demonstrates secure communication, telemetry data transmission, and command handling.  | Python 3, Azure Stack [IoT Hub, DPS, Service Bus], AWS Stack [IoT Core], MQTT, x509 certificate based Authentication, TLS, Json |
-| [Online eShop - Learn Microservice](https://github.com/pandyamehul/eShop.MicroService.net8) | eShop  developed based Microservice event driven architecture | - **Tools**:  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat" /> <img alt="SQL Server" src="https://img.shields.io/badge/SQL Server-CC2927?logo=microsoft+sql+server&logoColor=white&style=flat" />, ![Docker - Rancher](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker), ASP.NET Web API, RabbitMQ, MassTransit, gRPC, Yarp Gateway, Redis, MongoDB, SQLite, PostgreSQL,  .net 8. <br> - **Pattern**: Minimal API, Domain-Driven Design (DDD), CQRS, Clean Architecture, MediatR, Entity Framework (EF) Core, Event Driven Architecture |
-| [Publish and Consume messages from Apache Kafka in Asynchronous manner](https://github.com/pandyamehul/.Net8-Kafka-async-pub-sub) | Working Demo: Asynchronous Microservices in .NET 8 with Apache Kafka (Consumer & Publisher) for consuming events in real-time | .Net 8, C#, Apache Kafka, ASP.net web API, Rest API, ![Docker - Rancher](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker), VS Code, Rest Client |
-| [eStore Shop](https://github.com/pandyamehul/netcore31.mvcRestAPI.cmdStoreFull) | Sample RestAPI application in .net core 3.1 and PostgreSQL DB in docker with CI/CD for deployment  | - **Tools**: ![C#](https://img.shields.io/badge/C%23-black?style=flat-square&logo=csharp), ![Docker - Rancher](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker), ASP.NET Web API, PostgreSQL, .net 3.1 |
-| [Simple ASP.net web API](https://github.com/pandyamehul/SimpleAPI_CICD) | Sample Rest API application developed in .net core 2.2, integrated with Azure DevOps - CI/CD pipeline for deployment  on | ![.net core 2.2](https://img.shields.io/badge/.net%20core%202.2-gray?logo=.net), <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat" />, ![ASP.Net](https://img.shields.io/badge/asp%20.net-green?logo=.net) Web API, Rest, ![cosmos](https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Azure-Cosmos-DB.svgh&height=10&weight=5) |
+| [ECommerce Application - microservice on azure kubernetes](https://github.com/pandyamehul/.Net8-eCommerce-az-aks-devops) | eCommerce app with ASP .NET Core .net 9, fully functional featuring users, products & orders microservices | ![csharp](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) |
+| [Online eShop - Learn Microservice](https://github.com/pandyamehul/eShop.MicroService.net8) | eShop developed based Microservice event driven architecture | ![csharp](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) |
+| [Publish and Consume messages from Apache Kafka in Asynchronous manner](https://github.com/pandyamehul/.Net8-Kafka-async-pub-sub) | Working Demo: Asynchronous Microservices in .NET 8 with Apache Kafka for pub-sub messaging | ![csharp](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) |
+| [.Net8 CQRS and Kafka](https://github.com/pandyamehul/.Net8_CQRS-and-Kafka) | .Net8 Pub-Sub demo using event driven architecture using Kafka and CQRS pattern | ![csharp](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) |
+| [IoT Device Simulator](https://github.com/pandyamehul/IoT.Device.Simulator) | IoT Device Client / Simulator - mimic IoT device to send telemetry data to Azure IoT Hub and AWS IoT | ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![azure](https://img.shields.io/badge/azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| [eStore Shop](https://github.com/pandyamehul/netcore31.mvcRestAPI.cmdStoreFull) | Sample RestAPI application in .net core 3.1 and PostgreSQL DB in docker with CI/CD for deployment | ![csharp](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| [Simple ASP.net web API](https://github.com/pandyamehul/SimpleAPI_CICD) | Sample Rest API application developed in .net core 2.2, integrated with Azure DevOps - CI/CD pipeline for deployment | ![csharp](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![azure](https://img.shields.io/badge/azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) |
 
 ### Python
 
 | Project Title | Project Description | Pattern, Tools and Technology |
 | -- | -- | -- |
-| [Python PDF Utility](https://github.com/pandyamehul/Python.PDF.Utilities) | Python utilities <br> - Read pdf (inc. password locked) files and extract information like data extraction from table for automation <br> - Merge pdf files  | ![python](https://img.shields.io/badge/python%203-black?style=flat-square&logo=python) ![PDF](https://img.shields.io/badge/pdf-black?style=flat-square&logo=pdf)  |
+| [Python PDF Utility](https://github.com/pandyamehul/Python.PDF.Utilities) | Python utilities for PDF processing - Read pdf (inc. password locked) files, extract information, data extraction from tables, merge pdf | ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| [Personal.Photos.Organizer](https://github.com/pandyamehul/Personal.Photos.Organizer) | A local, offline photo management system for organizing large iPhone, Camera photo libraries | ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 
 ### DevOps
 
 | Project Title | Project Description | Pattern, Tools and Technology |
 | -- | -- | -- |
-| [Azure VM - IaaS](https://github.com/pandyamehul/IaaS.AzureVm) | Provision and de-allocationAzure VM using Git Actions, ARM / Terraform | IaaS, ![ARM](https://img.shields.io/badge/arm%20script-black?style=flat-square&logo=ARM), ![Terraform](https://img.shields.io/badge/terraform-black?style=flat-square&logo=terraform), ![Git actions](https://img.shields.io/badge/git%20action-black?style=flat-square&logo=githubactions), ![Poweershell](https://img.shields.io/badge/poweershell-black?style=flat-square&logo=poweershell)  |
+| [Azure VM - IaaS](https://github.com/pandyamehul/IaaS.AzureVm) | Provision and de-allocation Azure VM using Git Actions, ARM / Terraform | ![terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![azure](https://img.shields.io/badge/azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) |
+
+### GitHub Copilot - Agentic Coding
+
+| Project Title | Project Description | Pattern, Tools and Technology |
+| -- | -- | -- |
+| [GitHub.Copilot-Agentic_Coding.ExpanseViewer](https://github.com/pandyamehul/GitHub.Copilot-Agentic_Coding.ExpanseViewer) | GitHub Copilot Agentic Coding project for expense viewer | ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+| [Github.Copilot.Agentic.Coding-.Net10.UrlShortnerApp](https://github.com/pandyamehul/Github.Copilot.Agentic.Coding-.Net10.UrlShortnerApp) | URL Shortener App built with .NET 10 using GitHub Copilot Agentic Coding | ![csharp](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) |
 
 ## Technology, Tools, Languages and Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=azure,aws,react,git,kubernetes,docker,angular,cs,dotnet,github,githubactions,ai,linux,mysql,postgres,postman,powershell,py,redis,sqlite,ubuntu,vscode,windows,cosmos,functions&perline=12)](https://github.com/pandyamehul)
+[![My Skills](https://skillicons.dev/icons?i=azure,aws,react,git,kubernetes,docker,angular,cs,dotnet,github,githubactions,ai,linux,mysql,postgres,postman,powershell,py,redis,sqlite,ubuntu,vscode,windows)](https://skillicons.dev)
 
 ## Git Status & Statistics
 
@@ -89,10 +100,10 @@ Certified Azure, IoT, Data & AI Solution Architect and Digital Solution enabler 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
